@@ -1,3 +1,3 @@
 # Hajar
 
-Today, I am starting the #100Days of Code Challenge. I just met with an adacemic advisor about careers, and I must admit it was certiainly a wake-up call. I haven't had many internships over the past year, or any particluar things to be honest with you. But, I want to take a chnace on myself to learn these things and proceed with learning how to code. I am watching the #100DaysofCode and the encouragement is actually very calming-- snapped me right out of analysis paralysis for a bit too. It was advised to start writing out your feelings after one hour of code, so I thought I would just go ahead and do that-- I'll come back after I am finished. See ya!
+
